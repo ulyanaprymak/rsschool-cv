@@ -17,9 +17,9 @@ I’m just at the beginning of my training and have no experience at all, but I 
 ## **Education:**
 - Belarussian State University
   Courses:
-  - [HTML Academy] (https://htmlacademy.ru)
-  - [Фрілансер по життю] (https://www.youtube.com/@FreelancerLifeStyle)
-  - [Code-basics] (https://code-basics.com/ru/languages/javascript)
+  - [HTML Academy](https://htmlacademy.ru);
+  - [Фрілансер по життю](https://www.youtube.com/@FreelancerLifeStyle);
+  - [Code-basics](https://code-basics.com/ru/languages/javascript).
 ## **Languages**
 - Russian - native;
 - English - B1+;
