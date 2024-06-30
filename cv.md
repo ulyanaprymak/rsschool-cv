@@ -1,5 +1,5 @@
 # **Ulyana Prymak**
-## **Contact iformation:**
+## **Contact information:**
 - Location: Minsk, Belarus;
 - Phone: +375447081198;
 - Telegram: @ulyana_1998;
